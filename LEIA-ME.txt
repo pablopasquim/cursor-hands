@@ -1,0 +1,57 @@
+PACOTE MÃOZINHA CREME E ROSA
+
+17 funções do Windows, todas no mesmo estilo de cores.
+As duas funções de espera incluem alternativa animada (.ani) e estática (.cur).
+Os arquivos CUR incluem 32, 48, 64, 96, 128, 192 e 256 px.
+As animações incluem 32, 64, 96 e 128 px, 12 quadros por volta.
+
+INSTALAÇÃO MANUAL
+1. Extraia o ZIP e mantenha a pasta em um local fixo do computador.
+2. Abra guia.html para ver os desenhos e o arquivo de cada função.
+3. Pressione Win+R, digite main.cpl e pressione Enter.
+4. Na aba Ponteiros, selecione uma função e clique em Procurar.
+5. Escolha o arquivo correspondente abaixo e repita para as demais funções.
+6. Clique em Salvar Como, dê o nome Mãozinha creme e rosa e clique em Aplicar.
+Também pode usar o botão Navegar da tela de Acessibilidade mostrada na referência.
+
+Seleção normal -> cursores/01-selecao-normal.cur
+Seleção da ajuda -> cursores/02-selecao-ajuda.cur
+Funcionando em segundo plano -> animacoes/03-segundo-plano.ani
+Ocupado -> animacoes/04-ocupado.ani
+Seleção de precisão -> cursores/05-selecao-precisao.cur
+Seleção de texto -> cursores/06-selecao-texto.cur
+Caneta -> cursores/07-caneta.cur
+Não disponível -> cursores/08-nao-disponivel.cur
+Redimensionamento na vertical -> cursores/09-redimensionamento-vertical.cur
+Redimensionamento na horizontal -> cursores/10-redimensionamento-horizontal.cur
+Redimensionamento na diagonal 1 -> cursores/11-redimensionamento-diagonal-1.cur
+Redimensionamento na diagonal 2 -> cursores/12-redimensionamento-diagonal-2.cur
+Mover -> cursores/13-mover.cur
+Seleção alternativa -> cursores/14-selecao-alternativa.cur
+Seleção de link -> cursores/15-selecao-link.cur
+Seleção de localização -> cursores/16-selecao-localizacao.cur
+Seleção de pessoa -> cursores/17-selecao-pessoa.cur
+
+TAMANHO
+O Windows determina o tamanho final; a resolução do arquivo não obriga o
+sistema a exibir esse tamanho. Ajuste em Acessibilidade > Ponteiro do mouse
+e toque. Se essa mudança trocar os desenhos, selecione novamente seu esquema.
+
+ANIMAÇÃO
+Os indicadores de espera giram em loop. O pacote não contém animação
+acionada pelo clique: isso requer um programa adicional acompanhando o mouse.
+
+RESTAURAR
+Na aba Ponteiros, selecione o esquema padrão do Windows e clique em Aplicar.
+
+VALIDAÇÃO
+Todos os 17 CUR foram carregados pela API do Windows em sete tamanhos.
+Os dois ANI foram carregados em cinco tamanhos. Dimensões e pontos de clique
+foram conferidos. Todos os desenhos têm fundo transparente. As 12 imagens
+de cada animação são diferentes. Não alteramos seu esquema do mouse.
+Pendente: avaliar legibilidade, tamanho e animação nos seus aplicativos.
+
+DESENHO
+A mãozinha original foi recriada pela ferramenta integrada de imagens, com
+base na referência enviada. As variantes funcionais reutilizam essa arte
+e símbolos vetoriais feitos nas mesmas cores. Os vetores estão incluídos.

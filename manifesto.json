@@ -1,0 +1,193 @@
+{
+  "nome": "Mãozinha creme e rosa",
+  "palette": {
+    "peach": "#FFE2BF",
+    "pink": "#F49DAA",
+    "dark": "#33211F",
+    "white": "#FFF9F0"
+  },
+  "canvas": 256,
+  "sizes": [
+    32,
+    48,
+    64,
+    96,
+    128,
+    192,
+    256
+  ],
+  "roles": [
+    {
+      "id": "01-selecao-normal",
+      "label": "Seleção normal",
+      "key": "Arrow",
+      "hot": [
+        102,
+        16
+      ],
+      "note": "Mãozinha original; clique na ponta do indicador."
+    },
+    {
+      "id": "02-selecao-ajuda",
+      "label": "Seleção da ajuda",
+      "key": "Help",
+      "hot": [
+        91,
+        14
+      ],
+      "note": "Mãozinha com ponto de interrogação."
+    },
+    {
+      "id": "03-segundo-plano",
+      "label": "Funcionando em segundo plano",
+      "key": "AppStarting",
+      "hot": [
+        91,
+        14
+      ],
+      "animate": true,
+      "note": "Mãozinha com indicador giratório."
+    },
+    {
+      "id": "04-ocupado",
+      "label": "Ocupado",
+      "key": "Wait",
+      "hot": [
+        128,
+        128
+      ],
+      "animate": true,
+      "note": "Indicador giratório em creme e rosa."
+    },
+    {
+      "id": "05-selecao-precisao",
+      "label": "Seleção de precisão",
+      "key": "Crosshair",
+      "hot": [
+        128,
+        128
+      ],
+      "note": "Mira; ponto de clique no centro."
+    },
+    {
+      "id": "06-selecao-texto",
+      "label": "Seleção de texto",
+      "key": "IBeam",
+      "hot": [
+        128,
+        128
+      ],
+      "note": "Cursor de texto; centro estável para selecionar."
+    },
+    {
+      "id": "07-caneta",
+      "label": "Caneta",
+      "key": "NWPen",
+      "hot": [
+        34,
+        222
+      ],
+      "note": "Lápis; ponto de clique na ponta inferior esquerda."
+    },
+    {
+      "id": "08-nao-disponivel",
+      "label": "Não disponível",
+      "key": "No",
+      "hot": [
+        128,
+        128
+      ],
+      "note": "Símbolo de ação indisponível."
+    },
+    {
+      "id": "09-redimensionamento-vertical",
+      "label": "Redimensionamento na vertical",
+      "key": "SizeNS",
+      "hot": [
+        128,
+        128
+      ],
+      "note": "Setas verticais; ponto de clique central."
+    },
+    {
+      "id": "10-redimensionamento-horizontal",
+      "label": "Redimensionamento na horizontal",
+      "key": "SizeWE",
+      "hot": [
+        128,
+        128
+      ],
+      "note": "Setas horizontais; ponto de clique central."
+    },
+    {
+      "id": "11-redimensionamento-diagonal-1",
+      "label": "Redimensionamento na diagonal 1",
+      "key": "SizeNWSE",
+      "hot": [
+        128,
+        128
+      ],
+      "note": "Diagonal superior esquerda / inferior direita."
+    },
+    {
+      "id": "12-redimensionamento-diagonal-2",
+      "label": "Redimensionamento na diagonal 2",
+      "key": "SizeNESW",
+      "hot": [
+        128,
+        128
+      ],
+      "note": "Diagonal superior direita / inferior esquerda."
+    },
+    {
+      "id": "13-mover",
+      "label": "Mover",
+      "key": "SizeAll",
+      "hot": [
+        128,
+        128
+      ],
+      "note": "Setas nas quatro direções; ponto de clique central."
+    },
+    {
+      "id": "14-selecao-alternativa",
+      "label": "Seleção alternativa",
+      "key": "UpArrow",
+      "hot": [
+        128,
+        22
+      ],
+      "note": "Seta para cima; ponto de clique na ponta."
+    },
+    {
+      "id": "15-selecao-link",
+      "label": "Seleção de link",
+      "key": "Hand",
+      "hot": [
+        96,
+        15
+      ],
+      "note": "Mãozinha com brilhos para links."
+    },
+    {
+      "id": "16-selecao-localizacao",
+      "label": "Seleção de localização",
+      "key": "Pin",
+      "hot": [
+        91,
+        14
+      ],
+      "note": "Mãozinha com marcador de localização."
+    },
+    {
+      "id": "17-selecao-pessoa",
+      "label": "Seleção de pessoa",
+      "key": "Person",
+      "hot": [
+        91,
+        14
+      ],
+      "note": "Mãozinha com símbolo de pessoa."
+    }
+  ]
+}
